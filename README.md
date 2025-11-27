@@ -13,9 +13,3 @@ The framework used for this project is Bootstrap.
 ![image alt](https://github.com/KyleSancha/CSDC100-Pre-Finals/blob/77f089fdedd4079099bfd37af42c17a45f1bd7f0/Website%203.png)
 ![image alt](https://github.com/KyleSancha/CSDC100-Pre-Finals/blob/77f089fdedd4079099bfd37af42c17a45f1bd7f0/Website%204.png)
 ![image alt](https://github.com/KyleSancha/CSDC100-Pre-Finals/blob/77f089fdedd4079099bfd37af42c17a45f1bd7f0/Website%205.png)
-
-
-
-
-https://github.com/KyleSancha/CSDC100-Pre-Finals/blob/77f089fdedd4079099bfd37af42c17a45f1bd7f0/Website%204.png
-https://github.com/KyleSancha/CSDC100-Pre-Finals/blob/77f089fdedd4079099bfd37af42c17a45f1bd7f0/Website%205.png
