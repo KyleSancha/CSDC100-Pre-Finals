@@ -7,3 +7,9 @@ This is a static website that answers frequently asked questions regarding gener
 To run the project, open the file called index.html. It will take you to the homepage, and from there, you can navigate through the other webpages using the navigation bar or the buttons on the homepage.
 
 The framework used for this project is Bootstrap.
+
+https://github.com/KyleSancha/CSDC100-Pre-Finals/blob/77f089fdedd4079099bfd37af42c17a45f1bd7f0/Website%201.png
+https://github.com/KyleSancha/CSDC100-Pre-Finals/blob/77f089fdedd4079099bfd37af42c17a45f1bd7f0/Website%202.png
+https://github.com/KyleSancha/CSDC100-Pre-Finals/blob/77f089fdedd4079099bfd37af42c17a45f1bd7f0/Website%203.png
+https://github.com/KyleSancha/CSDC100-Pre-Finals/blob/77f089fdedd4079099bfd37af42c17a45f1bd7f0/Website%204.png
+https://github.com/KyleSancha/CSDC100-Pre-Finals/blob/77f089fdedd4079099bfd37af42c17a45f1bd7f0/Website%205.png
