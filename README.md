@@ -8,7 +8,9 @@ To run the project, open the file called index.html. It will take you to the hom
 
 The framework used for this project is Bootstrap.
 
-https://github.com/KyleSancha/CSDC100-Pre-Finals/blob/77f089fdedd4079099bfd37af42c17a45f1bd7f0/Website%201.png
+![image alt](https://github.com/KyleSancha/CSDC100-Pre-Finals/blob/77f089fdedd4079099bfd37af42c17a45f1bd7f0/Website%201.png)
+
+
 https://github.com/KyleSancha/CSDC100-Pre-Finals/blob/77f089fdedd4079099bfd37af42c17a45f1bd7f0/Website%202.png
 https://github.com/KyleSancha/CSDC100-Pre-Finals/blob/77f089fdedd4079099bfd37af42c17a45f1bd7f0/Website%203.png
 https://github.com/KyleSancha/CSDC100-Pre-Finals/blob/77f089fdedd4079099bfd37af42c17a45f1bd7f0/Website%204.png
